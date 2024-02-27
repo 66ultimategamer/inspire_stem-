@@ -1,4 +1,4 @@
-#This is a pogramto
+#This is a program to show employee records
 
 
 
