@@ -1,5 +1,11 @@
-number=20
+x=1
+while x<=10:
+    print(x)
+    if x == 5:
+        break
 
-for i in range(2,number):
-    while i < number:
-        print(i)
+    if x == 6:
+       continue
+    x = x+1
+    print(x)
+ 
