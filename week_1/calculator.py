@@ -1,5 +1,5 @@
 # this is a simple calculator program
-# Date:15/02/2024
+# Date: 20/2/2024
 # Name:Maxwel Ndungu
 
 

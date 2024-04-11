@@ -1,4 +1,6 @@
 #This is a program to show employee records
+# Date:15/02/2024
+# Name:Maxwel Ndungu
 
 
 

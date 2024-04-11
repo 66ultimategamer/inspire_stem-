@@ -37,5 +37,6 @@ button{
     margin: 10px;
     cursor: pointer;
     box-shadow: -8px;
+    border-radius: 50%;
 
 }
